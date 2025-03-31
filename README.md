@@ -1,0 +1,1 @@
+# SEC_2025_Circuits_Competition
