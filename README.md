@@ -2,7 +2,6 @@
 
 ## Digital Oscilloscope Design & Guide
 
-### Group 6B
 **Date:** 03/28/2025
 
 ---
